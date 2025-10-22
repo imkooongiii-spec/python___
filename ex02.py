@@ -4,3 +4,5 @@ a = list(map(int, input().split()))
 
 b = a.pop()
 b = a.pop()
+
+print(a)
